@@ -1,0 +1,312 @@
+{
+  "spells": [
+    {
+      "spell": "Aberto",
+      "effect": "Opens locked doors"
+    },
+    {
+      "spell": "Accio",
+      "effect": "Summons objects"
+    },
+    {
+      "spell": "Aguamenti",
+      "effect": "Summons water"
+    },
+    {
+      "spell": "Alohomora",
+      "effect": "Unlocks objects"
+    },
+    {
+      "spell": "Anapneo",
+      "effect": "Clears someone's airway"
+    },
+    {
+      "spell": "Aparecium",
+      "effect": "Reveals secret, written messages"
+    },
+    {
+      "spell": "Apparate",
+      "effect": "A non"
+    },
+    {
+      "spell": "Ascendio",
+      "effect": "Propells someone into the air"
+    },
+    {
+      "spell": "Avada Kedavra",
+      "effect": "Also known as The Killing Curse, the most evil spell in the Wizarding World; one of three Unforgivable Curses; Harry Potter is the only known witch or wizard to survive it"
+    },
+    {
+      "spell": "Avis",
+      "effect": "Conjures a small flock of birds"
+    },
+    {
+      "spell": "Bat",
+      "effect": "Bogey Hex"
+    },
+    {
+      "spell": "Bombardo",
+      "effect": "Creates an explosion"
+    },
+    {
+      "spell": "Brackium Emendo",
+      "effect": "Heals broken bones"
+    },
+    {
+      "spell": "Capacious Extremis",
+      "effect": "Known as the Extension Charm, it's a complicated spell that can greatly expand or extend the capacity of an object or space without affecting it externally"
+    },
+    {
+      "spell": "Confundo",
+      "effect": "Known as the Confundus Charm, it causes confusion of the target"
+    },
+    {
+      "spell": "Conjunctivitis Curse",
+      "effect": "Affects the eyes and sight of a target"
+    },
+    {
+      "spell": "Crinus Muto",
+      "effect": "Changes hair color and style"
+    },
+    {
+      "spell": "Crucio",
+      "effect": "One of three Unforgivable Curses, it causes unbearable pain in the target"
+    },
+    {
+      "spell": "Diffindo",
+      "effect": "Used to precisely cut an object"
+    },
+    {
+      "spell": "Disillusionment Charm",
+      "effect": "Causes the target to take on the appearance of its surroundings"
+    },
+    {
+      "spell": "Disapparate",
+      "effect": "A non"
+    },
+    {
+      "spell": "Engorgio",
+      "effect": "Causes rapid growth in the targeted object"
+    },
+    {
+      "spell": "Episkey",
+      "effect": "Heals minor injuries"
+    },
+    {
+      "spell": "Expecto patronum",
+      "effect": "The Patronus Charm is a powerful projection of hope and happiness that drives away Dementors; a corpeal Patronus takes the the respective animal form of the caster, while a non"
+    },
+    {
+      "spell": "Erecto",
+      "effect": "Allows a witch or wizard to build a structure, like a tent"
+    },
+    {
+      "spell": "Evanesco",
+      "effect": "Vanishes objects"
+    },
+    {
+      "spell": "Expelliarmus",
+      "effect": "Forces an opponent to drop whatever's in their possession"
+    },
+    {
+      "spell": "Ferula",
+      "effect": "A healing charm that conjures wraps and bandages for wounds"
+    },
+    {
+      "spell": "Fidelius Charm",
+      "effect": "A complex charm that conceals a secret into the soul of a chosen \"Secret Keeper;\" if a location is the subject of concealment, it becomes undetectable to others"
+    },
+    {
+      "spell": "Fiendfyre Curse",
+      "effect": "Conjures destructive, enormous enchanted flames"
+    },
+    {
+      "spell": "Finite Incantatem",
+      "effect": "A general counter"
+    },
+    {
+      "spell": "Furnunculus Curse",
+      "effect": "A jinx that causes a breakout of boils or pimples"
+    },
+    {
+      "spell": "Geminio",
+      "effect": "Duplicates objects"
+    },
+    {
+      "spell": "Glisseo",
+      "effect": "Transforms a staircase into a slide"
+    },
+    {
+      "spell": "Homenum Revelio",
+      "effect": "Reveals the presence of another person"
+    },
+    {
+      "spell": "Homonculus Charm",
+      "effect": "Detects anyone's true identity and location on a piece of parchment; used to create the Marauder's Map"
+    },
+    {
+      "spell": "Immobulus",
+      "effect": "Immobilises living targets"
+    },
+    {
+      "spell": "Impedimenta",
+      "effect": "A temporary jinx that slows the movement of the target"
+    },
+    {
+      "spell": "Incarcerous",
+      "effect": "Conjures ropes"
+    },
+    {
+      "spell": "Imperio",
+      "effect": "One of the three Unforgivable Curses, it places the target under the complete control of the caster"
+    },
+    {
+      "spell": "Impervius",
+      "effect": "Makes an object waterproof"
+    },
+    {
+      "spell": "Incendio",
+      "effect": "Conjures flames"
+    },
+    {
+      "spell": "Langlock",
+      "effect": "Causes the target's tongue to stick to the roof of their mouth"
+    },
+    {
+      "spell": "Legilimens",
+      "effect": "Invading or navigating another's mind"
+    },
+    {
+      "spell": "Levicorpus",
+      "effect": "Levitates the target by their ankle"
+    },
+    {
+      "spell": "Locomotor Mortis",
+      "effect": "The Leg"
+    },
+    {
+      "spell": "Lumos",
+      "effect": "Illuminates the caster's wand"
+    },
+    {
+      "spell": "Morsmordre",
+      "effect": "Conjures and projects Lord Voldemort's Dark Mark"
+    },
+    {
+      "spell": "Mucus Ad Nauseam",
+      "effect": "Inflicts an extreme runny nose or cold"
+    },
+    {
+      "spell": "Muffliato",
+      "effect": "Creates a buzzing sound in the target's ears to prevent eavesdropping"
+    },
+    {
+      "spell": "Nox",
+      "effect": "Reverses the lumos charm, extinguishing a wand's light"
+    },
+    {
+      "spell": "Obliviate",
+      "effect": "Erases the target's memory"
+    },
+    {
+      "spell": "Obscuro",
+      "effect": "Conjures a blindfold"
+    },
+    {
+      "spell": "Oculus Reparo",
+      "effect": "Repairs eyeglasses"
+    },
+    {
+      "spell": "Oppugno",
+      "effect": "Directs an object or person to attack a victim"
+    },
+    {
+      "spell": "Petrificus Totalus",
+      "effect": "Temporarily freezes or petrifies the body of the target"
+    },
+    {
+      "spell": "Periculum",
+      "effect": "Conjures flares/red sparks"
+    },
+    {
+      "spell": "Piertotum Locomotor",
+      "effect": "Incantation used to bring to life inanimate objects and artifacts"
+    },
+    {
+      "spell": "Protean Charm",
+      "effect": "Links objects together for better communication"
+    },
+    {
+      "spell": "Protego",
+      "effect": "Casts an invisible shield around the caster, protecting against spells and objects (except for The Killing Curse)"
+    },
+    {
+      "spell": "Reducto",
+      "effect": "Reduces the target to pieces"
+    },
+    {
+      "spell": "Reducio",
+      "effect": "Shrinks an enlarged object to its regular size"
+    },
+    {
+      "spell": "Renneverate",
+      "effect": "Awakens or revives the target"
+    },
+    {
+      "spell": "Reparifors",
+      "effect": "Heals magical ailments like poisoning or paralysis"
+    },
+    {
+      "spell": "Reparo",
+      "effect": "Fixes broken objects"
+    },
+    {
+      "spell": "Rictusempra",
+      "effect": "A charm that disarms an opponent by tickling them"
+    },
+    {
+      "spell": "Riddikulus",
+      "effect": "Used to defeat a Boggart, the charm allows the scary creature to assume a comedic form, disarming it"
+    },
+    {
+      "spell": "Scourgify",
+      "effect": "Cleans objects"
+    },
+    {
+      "spell": "Sectumsempra",
+      "effect": "Inflicts severe lacerations and haemorrhaging on the target"
+    },
+    {
+      "spell": "Serpensortia",
+      "effect": "Conjures a live snake"
+    },
+    {
+      "spell": "Silencio",
+      "effect": "Silences the target"
+    },
+    {
+      "spell": "Sonorus",
+      "effect": "Amplifies the witch or wizard's voice"
+    },
+    {
+      "spell": "Spongify",
+      "effect": "Softens the target"
+    },
+    {
+      "spell": "Stupefy",
+      "effect": "The Stunning spell freezes objects and renders living targets unconscious"
+    },
+    {
+      "spell": "Tarantallegra",
+      "effect": "Aimed at the legs, causes uncontrollable dancing movement"
+    },
+    {
+      "spell": "Unbreakable Vow",
+      "effect": "A magically binding contract that results in the death of whoever breaks it"
+    },
+    {
+      "spell": "Wingardium Leviosa",
+      "effect": "Causes an object to levitate; but remember what Hermione said: It’s Wing-gar-dium Levi-o-sa, make the 'gar' nice and long.’"
+    }
+  ]
+}

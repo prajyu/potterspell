@@ -1,0 +1,26 @@
+{
+  "name": "potterspell",
+  "version": "1.0.0",
+  "description": "All spells used in harry potter.",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon api.js"
+  },
+  "keywords": [
+    "potter",
+    "harry",
+    "api",
+    "quotes",
+    "spells"
+  ],
+  "author": "Prajyu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
